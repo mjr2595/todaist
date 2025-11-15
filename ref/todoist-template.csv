@@ -1,0 +1,14 @@
+﻿TYPE,CONTENT,DESCRIPTION,IS_COLLAPSED,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE,DURATION,DURATION_UNIT,DEADLINE,DEADLINE_LANG
+meta,view_style=list,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+task,Call that very important client,,,1,1,mray (17750945),,today at 11:00,en,America/Chicago,30,minute,2025-03-31,en
+note,Only available on Tuesdays and Thursdays,,,,,mray (17750945),,2025-11-15T16:54:14.488430Z,,,,,,
+task,**Household chores**:,,,4,1,mray (17750945),,,,America/Chicago,,,2025-02-24,en
+task,Clean the house,,,4,2,mray (17750945),,every month @ 13:00,en,America/Chicago,120,minute,,
+task,Take out the trash,,,3,2,mray (17750945),,every Friday,en,America/Chicago,,,,
+,,,,,,,,,,,,,,
+section,This is a section title,,False,,,,,,,,,,,
+task,this is a task in a section,,,4,1,mray (17750945),,,,America/Chicago,,,,
+task,another item,,,4,1,mray (17750945),,,,America/Chicago,,,,
+task,seub-task in a task in a section,,,4,2,mray (17750945),,,,America/Chicago,,,,
+,,,,,,,,,,,,,,
